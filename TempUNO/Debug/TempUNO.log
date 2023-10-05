@@ -1,0 +1,56 @@
+﻿  Source.cpp
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(132): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(192): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(244): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(298): warning C4018: '>=': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(298): warning C4267: '-=': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(302): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(312): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(318): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(323): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(332): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(363): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(364): warning C4018: '>': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(399): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(415): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(419): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(455): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(464): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(466): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(468): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(331): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(330): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(341): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(345): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(381): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(396): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(397): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(399): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(412): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(411): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(410): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(473): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(539): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(541): warning C4018: '<=': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(695): warning C4018: '<': signed/unsigned mismatch
+c:\users\frost\source\repos\tempuno\tempuno\gui.h(717): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(81): warning C4715: 'cPlayer::setPosition': not all control paths return a value
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(269): warning C4715: 'cMatch::getWinner': not all control paths return a value
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(387): warning C4715: 'cMatch::getTempColor': not all control paths return a value
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(407): warning C4700: uninitialized local variable 'highestCard' used
+c:\users\frost\source\repos\tempuno\tempuno\classes.h(356): warning C4715: 'cMatch::playCard': not all control paths return a value
+  TempUNO.vcxproj -> C:\Users\Frost\source\repos\TempUNO\Debug\TempUNO.exe
